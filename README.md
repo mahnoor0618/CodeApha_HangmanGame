@@ -3,15 +3,15 @@ A simple *Hangman Game* built with Python where the player guesses letters to fi
 This project is created as part of my *CodeAlpha Python Programming Internship*.
 
 **Features**
-- 🎮 5 Categories to choose from:
+  - 5 Categories to choose from:
   - Programming
   - Food
   - Sports
   - Physics
   - Mathematics
-- ⏳ 6 chances to guess the word before losing.
-- 🔄 Real-time updates after each guess.
-- 🎉 Win/Lose message at the end.
+-  6 chances to guess the word before losing.
+-  Real-time updates after each guess.
+-  Win/Lose message at the end.
 
 📌 Gameplay Example
 
