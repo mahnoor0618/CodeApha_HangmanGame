@@ -2,7 +2,7 @@
 A simple *Hangman Game* built with Python where the player guesses letters to find the secret word before running out of chances.  
 This project is created as part of my *CodeAlpha Python Programming Internship*.
 
-*Features*
+**Features**
 - 🎮 5 Categories to choose from:
   - Programming
   - Food
